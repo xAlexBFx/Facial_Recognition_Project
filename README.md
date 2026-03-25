@@ -1,4 +1,6 @@
 # BOLO Facial Recognition System
+![icon](https://github.com/user-attachments/assets/26e63181-8f57-40cf-884d-bddf39fcd2a7)
+
 
 A sophisticated real-time facial recognition system that combines face detection, recognition, emotion analysis, and image captioning using advanced AI models.
 
